@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904940379459",
+    "project_id": "supervpn-38c91",
+    "storage_bucket": "supervpn-38c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904940379459:android:2e038fe34510f96099e3f6",
+        "android_client_info": {
+          "package_name": "com.supervpn.fast.vpn.free.proxy.unblock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904940379459-1vbba2o5iqasnvki60jtp44hbrl18s09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supervpn.fast.vpn.free.proxy.unblock",
+            "certificate_hash": "ebaed7bc1b5fa4f987443bb67fc75bf239f9b351"
+          }
+        },
+        {
+          "client_id": "904940379459-mbimn6qjid7k4dshpd5j8lb0tgp78148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjRYSHOKVF4yFwp2wp2KRgLtaC1M4um0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904940379459-mbimn6qjid7k4dshpd5j8lb0tgp78148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
